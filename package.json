@@ -1,6 +1,6 @@
 {
   "name": "viewStarsCLI",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "bin/index.js",
   "bin": {
@@ -9,6 +9,10 @@
   "scripts": {
     "start": "node bin/index.js",
     "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/LucaReano/viewStarsCLI.git"
   },
   "keywords": [
     "command line interface",
