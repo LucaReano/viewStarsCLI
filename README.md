@@ -12,7 +12,7 @@ It was created to determine the best stars observing time. In fact, stars are mo
 - Moon is not full or better is a new Moon :new_moon:
 - there's no light pollution (or is little at least).
 
-## Installation
+## Installation (as node_module)
 
 `npm install --save view-stars-cli`
 
