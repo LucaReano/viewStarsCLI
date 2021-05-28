@@ -14,7 +14,7 @@ It was created to determine the best stars observing time. In fact, stars are mo
 
 ## Installation
 
-`npm install --save starViewCLI`
+`npm install --save view-stars-cli`
 
 ## Usage
 
