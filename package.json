@@ -1,0 +1,40 @@
+{
+  "name": "viewStarsCLI",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "viewStars": "bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "command line interface",
+    "CLI",
+    "console",
+    "commander",
+    "stars",
+    "weather",
+    "moon",
+    "light pollution",
+    "diary"
+  ],
+  "author": "Luca Reano",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "cli-table3": "^0.6.0",
+    "clui": "^0.3.6",
+    "commander": "^7.2.0",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "node-fetch": "^2.6.1",
+    "open": "^8.0.7"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "mock-fs": "^5.0.0"
+  }
+}
